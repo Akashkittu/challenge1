@@ -27,20 +27,20 @@ To get this project up and running on your local machine, follow these steps:
 
 2. **Install dependencies**
 
-  bash
-  
-  Copy
-  
-  npm install
+     bash
+     
+     Copy
+     
+     npm install
 
 3. **Start the development server**
 
-  To view the project in your web browser, you can start up the development server with:
-  
-  bash
-  
-  Copy
-  
-  npm run dev
-  
-  This command should open up the login page in your default web browser. If it doesn't, you can manually open http://localhost:3000 in your browser.
+     To view the project in your web browser, you can start up the development server with:
+     
+     bash
+     
+     Copy
+     
+     npm run dev
+     
+     This command should open up the login page in your default web browser. If it doesn't, you can manually open http://localhost:3000 in your browser.
